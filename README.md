@@ -49,6 +49,6 @@ Como Usar
 
 Clone o repositório:
 
-bash https://github.com/leandrororiz/projeto_site_rest_rendesvous.git
+bash https://github.com/YamiDressCode/Cursos.git
 
 Autores Desenvolvido por: Leandro Roriz Fidalgo, Luis Andre Moura, Emanuel Moreira Dos Anjos
